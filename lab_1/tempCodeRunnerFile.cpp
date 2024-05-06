@@ -1,0 +1,2 @@
+stck.pop();
+    // stck.pop();
